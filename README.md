@@ -16,4 +16,5 @@ Project work: deeper study on the problem trying to implement attention mechanis
 
 
 Metrics: WER and CER
+
 Loss: CTC
